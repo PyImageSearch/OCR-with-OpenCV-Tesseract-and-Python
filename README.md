@@ -1,4 +1,4 @@
-# OCR
+# OCR-with-OpenCV-Tesseract-and-Python
 Bug or Problem Tracker
 
 Welcome the OCR with OpenCV, Tesseract, and Python Bug Tracker.  This tracker is for customers who have purchased [OCR with OpenCV, Tesseract, and Python](https://www.pyimagesearch.com/ocr-with-opencv-tesseract-and-python/).  
